@@ -1,0 +1,68 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "x",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "y",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/scopes.sol": "scopes"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/scopes.sol": {
+			"keccak256": "0x9117269618f8ceb1dc55530eb709c0dc2acc55bf0f785fab879f5c3c40b7bec9",
+			"urls": [
+				"bzz-raw://43e6f0ebe77e843b38020a5f67b9d3312a20a497b6f3b4936fc57f8a41e9a18e",
+				"dweb:/ipfs/QmWdATb8ijRqWcgMiX4KU6fhi8rqSk5ADUGcqTU5kYmFJU"
+			]
+		}
+	},
+	"version": 1
+}

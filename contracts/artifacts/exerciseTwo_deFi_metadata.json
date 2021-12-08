@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "airDrop",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/exerciseTwo_defi.sol": "exerciseTwo_deFi"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/exerciseTwo_defi.sol": {
+			"keccak256": "0x7f19e2accb58546ef745ce66fd8a7b187fa37589127356986f009ff646d2d55a",
+			"urls": [
+				"bzz-raw://ec926af482fbd9a1f16fe9cfc776e75c026d7861f8e640af93002c2dfb2cfbde",
+				"dweb:/ipfs/QmdGdMxrgYFRKkRip4NqSQo9GCWUg4d3JE3pkjG2kNnr9a"
+			]
+		}
+	},
+	"version": 1
+}

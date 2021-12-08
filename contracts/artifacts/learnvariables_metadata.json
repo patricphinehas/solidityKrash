@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.10+commit.fc410830"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/vaiables-types.sol": "learnvariables"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/vaiables-types.sol": {
+			"keccak256": "0xdfa2c7bb1c5542ec49d519ed3b98362a4175a006b6edc8adc82843754ded287c",
+			"urls": [
+				"bzz-raw://038ad261a78a3862683251486653e265399605c86e1170730d87f45a710412bb",
+				"dweb:/ipfs/QmZdXAHzxWYpgU9PLA2XnYSX8GBfwfdB9K2S8AXsUxCDDr"
+			]
+		}
+	},
+	"version": 1
+}

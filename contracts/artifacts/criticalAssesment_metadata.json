@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "dividend",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "divisor",
+						"type": "uint256"
+					}
+				],
+				"name": "handler",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/criticalAssesment.sol": "criticalAssesment"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/criticalAssesment.sol": {
+			"keccak256": "0xf6ee4503709f66dc4e0ad1fdbe39275f53667f6c9ae52ec8e8d859eab8dfbefd",
+			"urls": [
+				"bzz-raw://2b9799bd4cf585adf87ad924ba6f2f17408db75180b3b9eaf64ac691e771b098",
+				"dweb:/ipfs/Qmb3utLvFqadXC9egT155mjVmRJZDepumJVzvePZgjACKu"
+			]
+		}
+	},
+	"version": 1
+}

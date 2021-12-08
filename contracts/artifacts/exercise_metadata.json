@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/exerciseTwo_defi.sol": "exercise"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/exerciseTwo_defi.sol": {
+			"keccak256": "0x8ba0ec3cc057b453c0160efba927619e10ef1fb2ecd525e0f87f6cee2df13bf4",
+			"urls": [
+				"bzz-raw://c2f8caa253047477b3f7ec640ba835515260730f996a0c314c7c117ed6a7c890",
+				"dweb:/ipfs/QmcyQ7E2xC8yT25yHNit4eXFELBQcALwjz6SfPZ8pRz5Xf"
+			]
+		}
+	},
+	"version": 1
+}

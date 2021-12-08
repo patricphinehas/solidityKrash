@@ -1,0 +1,50 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_data",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/constructorExrercise.sol": "Base"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/constructorExrercise.sol": {
+			"keccak256": "0xd322498f94b15c6d026f479fa82305fb749436c10023dffc5f51a2d0f35a3ec2",
+			"urls": [
+				"bzz-raw://89eba6c5898bfa9239d6685cf40b233879a52e637341ff6eaf821e0b3e06e762",
+				"dweb:/ipfs/QmPWqT6zZzdhXVSj92D64WoMhDiLRXAUgCcRSbNzwGUBRw"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.10+commit.fc410830"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "addVals",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "bool",
+						"name": "stwitchStatus",
+						"type": "bool"
+					}
+				],
+				"name": "openDoor",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/function-learn.sol": "LearnFunction"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/function-learn.sol": {
+			"keccak256": "0xb2244b84aee0bffdade29ea3e224457d27e2619d2a1c34f937c79d8d906e1161",
+			"urls": [
+				"bzz-raw://cde5bed6a3a7fbd5927f2fe52de55b5f5c677fec59d799b56b21558a94bc7e5d",
+				"dweb:/ipfs/QmQcHbLKCNnhZgHZZF1QZUbGunFBmUV6e32fVZv4QU8hUS"
+			]
+		}
+	},
+	"version": 1
+}

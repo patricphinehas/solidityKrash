@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "checkMultiples",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/loopcontract.sol": "loopContract"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/loopcontract.sol": {
+			"keccak256": "0xf73003a264ae4c94208e86827746d1a2a0e24b7c03bc35bd3f4921fdae146d63",
+			"urls": [
+				"bzz-raw://a9c702033b5b0f7e6245e68bbc33d61ff9f064fd5c95070f0d36c820e6334896",
+				"dweb:/ipfs/QmPLrGTFiRcg8i4VZXtrfDfmtizTCndJtdW7Qpc9KvZvgn"
+			]
+		}
+	},
+	"version": 1
+}
